@@ -1,0 +1,9 @@
+.table{
+  border: 1;
+  padding: 20px;
+  top:10px;
+}
+.thead-dark{
+  background-color: #171717;
+  color:#f3f3f3;
+}
